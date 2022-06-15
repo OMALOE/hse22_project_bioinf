@@ -23,8 +23,13 @@
 
 ## Ассоциация
 
+# GCA_000499445
 ![image](https://user-images.githubusercontent.com/56366333/173959909-7e3bf27e-8b4e-4d2e-8333-a8a7f547a964.png)
+# GCF_000499385
 ![image](https://user-images.githubusercontent.com/56366333/173959928-c103b10f-091e-4c2f-b3cd-eb578d014e51.png)
+# GCF_000499425
 ![image](https://user-images.githubusercontent.com/56366333/173959936-b677d1e4-0382-4e8f-a77b-cbbb3d723535.png)
+# GCF_000499745
 ![image](https://user-images.githubusercontent.com/56366333/173959945-c8d57533-84a2-4007-b158-c0b0d5f44756.png)
+# GCF_000499605
 ![image](https://user-images.githubusercontent.com/56366333/173959952-1f7e6c54-6170-4e10-a24a-28d0a20344ff.png)
